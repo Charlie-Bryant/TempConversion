@@ -1,0 +1,6 @@
+E:\Computer Science\Tempreture Conversion\Tempreture Conversion\bin\Debug\Tempreture Conversion.exe.config
+E:\Computer Science\Tempreture Conversion\Tempreture Conversion\bin\Debug\Tempreture Conversion.exe
+E:\Computer Science\Tempreture Conversion\Tempreture Conversion\bin\Debug\Tempreture Conversion.pdb
+E:\Computer Science\Tempreture Conversion\Tempreture Conversion\obj\Debug\Tempreture Conversion.csprojResolveAssemblyReference.cache
+E:\Computer Science\Tempreture Conversion\Tempreture Conversion\obj\Debug\Tempreture Conversion.exe
+E:\Computer Science\Tempreture Conversion\Tempreture Conversion\obj\Debug\Tempreture Conversion.pdb
